@@ -1,4 +1,5 @@
 earthengine-api
+geemap
 
 notebook
 
