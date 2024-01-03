@@ -1,0 +1,8 @@
+earthengine-api
+
+notebook
+
+numpy
+pandas
+matplotlib
+seaborn
