@@ -4,6 +4,7 @@ credentials.json
 
 enumeratedbomaphotos
 croppedbomaphotos
-croppedbomaphotos.zip
-enumeratedbomaphotos.zip
+*.zip
 
+
+saved/
